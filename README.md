@@ -12,6 +12,6 @@ Tamil - PDF
 ## கோளதீபிகை.
 
 English - Plain Text  
-English - PDF | Atkinson | Coelacanth | Biolinum | Aurical | Custom01  
+English - PDF  
 Tamil - Plain Text  
-Tamil - PDF  
+Tamil - PDF | Atkinson | Coelacanth | Biolinum | Aurical | Custom01  
