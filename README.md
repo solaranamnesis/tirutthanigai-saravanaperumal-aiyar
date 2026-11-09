@@ -1,2 +1,17 @@
-# tirutthanigai-saravanaperumal-aiyar
-Public Domain Works by Tirutthanigai Saravanaperumal Aiyar (1799-?).
+# Tirutthanigai Saravanaperumāl Aiyar.
+
+Public Domain Works by Tirutthanigai Saravanaperumāl Aiyar (1799-?).
+
+## Commentary on the Tirukkural.
+
+English - Plain Text  
+English - PDF | Atkinson | Coelacanth | Biolinum | Aurical | Custom01  
+Tamil - Plain Text  
+Tamil - PDF  
+
+## கோளதீபிகை.
+
+English - Plain Text  
+English - PDF | Atkinson | Coelacanth | Biolinum | Aurical | Custom01  
+Tamil - Plain Text  
+Tamil - PDF  
