@@ -13,5 +13,5 @@ Tamil - PDF
 
 English - Plain Text  
 English - PDF  
-Tamil - Plain Text  
+[Tamil - Plain Text](goladipikei/full-text-tamil.md)  
 Tamil - PDF | Atkinson | Coelacanth | Biolinum | Aurical | Custom01  
